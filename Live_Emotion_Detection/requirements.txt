@@ -3,5 +3,5 @@ pandas
 tensorflow
 keras
 streamlit
-cv2
-PIL
+opencv-python
+Pillow

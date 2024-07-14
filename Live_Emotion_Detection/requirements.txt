@@ -3,5 +3,6 @@ pandas
 tensorflow
 keras
 streamlit
-opencv-python
 Pillow
+opencv-python-headless
+PyOpenGL

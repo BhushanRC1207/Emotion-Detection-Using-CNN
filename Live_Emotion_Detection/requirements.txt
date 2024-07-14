@@ -2,7 +2,7 @@ numpy
 pandas
 tensorflow
 keras
-streamlit
 Pillow
-opencv-python-headless
-PyOpenGL
+streamlit==1.36.0
+opencv-python-headless==4.10.0.84
+pyopengl==3.1.7
